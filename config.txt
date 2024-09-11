@@ -1,0 +1,5 @@
+API_KEY = sk_a5c26beacec538c8992dd375b9961ac260b9125d2c0de550
+Voice = 
+Input = 
+Output = 
+T_Mode = 0
